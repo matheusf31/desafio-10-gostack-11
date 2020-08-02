@@ -32,7 +32,7 @@ Nesse desafio, desenvolvi mais uma aplicação, a GoRestaurant. Pratiquei o que 
 
 Essa é uma aplicação que se conecta a uma fake API, e exibe os pratos de comida criados e permite a criação, remoção e atualização desses pratos.
 
-[Link do desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios)
+[Link do desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-reactjs-crud)
 
 ### Utilizando uma fake API
 
